@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+beautifulsoup4
+PyQt5
+pyqt5-tools
+pyinstaller
+auto-py-to-exe
