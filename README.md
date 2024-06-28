@@ -4,7 +4,7 @@
 
 This project aims to automate the process of uploading movies to the FlexCinemaz website. The application is built using Python and PyQt5 for the UI interface and uses Selenium for web automation. The primary goal is to reduce the manual effort involved in adding thousands of movies to the FlexCinemaz admin dashboard.
 
-![fLEXCINEMAZ AUTOMATION Demo]()
+![fLEXCINEMAZ AUTOMATION Demo](https://github.com/benny-png/Flexcinemaz-Project/blob/main/flex.png)
 
 ## Table of Contents
 
@@ -64,6 +64,10 @@ This project aims to automate the process of uploading movies to the FlexCinemaz
 2. **UI Interface**:
    - Load the last movie uploaded.
    - Click the 'Export' button to start the automation process.
+  
+
+![fLEXCINEMAZ AUTOMATION Demo](https://github.com/benny-png/Flexcinemaz-Project/blob/main/flex.png)
+
 
 ## UI Interface
 
