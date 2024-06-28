@@ -66,7 +66,7 @@ This project aims to automate the process of uploading movies to the FlexCinemaz
    - Click the 'Export' button to start the automation process.
   
 
-![fLEXCINEMAZ AUTOMATION Demo](https://github.com/benny-png/Flexcinemaz-Project/blob/main/flex.png)
+![fLEXCINEMAZ AUTOMATION Demo](https://github.com/benny-png/Flexcinemaz-Project/blob/main/qtdesigner.png)
 
 
 ## UI Interface
