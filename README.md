@@ -90,7 +90,7 @@ The UI interface is created using PyQt5. It includes functionalities to load the
 ## Demo
 
 ![Demo Video](path-to-demo-video)
-![UI Screenshot](path-to-ui-screenshot)
+![UI Screenshot](https://github.com/benny-png/Flexcinemaz-Project/blob/main/flex.png)
 
 ## Contributing
 
